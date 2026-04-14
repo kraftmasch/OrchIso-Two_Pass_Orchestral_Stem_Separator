@@ -39,3 +39,4 @@ c. Browser modern (Chrome, Firefox, Edge)
 | numpy |	>=1.21 |
 
 Langkah penggunaan telah disediakan pada file documentation.
+Link dataset dan .pth: https://drive.google.com/drive/folders/1y8yal7G0xJP0AtoZ28kqhJgQb_FdFyh7
