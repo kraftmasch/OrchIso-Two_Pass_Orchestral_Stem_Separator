@@ -1,9 +1,5 @@
 # OrchIso: Learning-Based Orchestral Isolation Tool
-## by: tembok ratapan solo
-Learning-Based Tool for Isolating Orchestral Section (String, Brass, etc) of a Popular Song wioth Two-Stage Audio Source Separation
-
 for KCVanguard 2026 Final Project
-
 
 ## 1. Overview
 OrchIso adalah tool berbasis machine learning untuk mengisolasi bagian orkestra dari sebuah lagu audio. Tool ini menggunakan pipeline dua tahap: pertama memisahkan stem menggunakan Demucs, kemudian memperbaiki hasil separasi menggunakan model Spectrogram U-Net yang dapat dilatih sendiri.
