@@ -1,5 +1,12 @@
-# OrchIso: Learning-Based Orchestral Isolation Tool
-for KCVanguard 2026 Final Project
+<div align=center>
+  
+# OrchIso: Learning-Based Orchestral Stem Isolation Tool
+  
+| Tembok Ratapan Solo |
+| :----: |
+| KCVanguard 2026 Final Project |
+
+</div>
 
 ## 1. Overview
 OrchIso adalah tool berbasis machine learning untuk mengisolasi bagian orkestra dari sebuah lagu audio. Tool ini menggunakan pipeline dua tahap: pertama memisahkan stem menggunakan Demucs, kemudian memperbaiki hasil separasi menggunakan model Spectrogram U-Net yang dapat dilatih sendiri.
