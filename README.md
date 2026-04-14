@@ -2,7 +2,7 @@
 ## by: tembok ratapan solo
 Learning-Based Tool for Isolating Orchestral Section (String, Brass, etc) of a Popular Song wioth Two-Stage Audio Source Separation
 
-for KCVanguard 2026 purpose
+for KCVanguard 2026 Final Project
 
 
 ## 1. Overview
